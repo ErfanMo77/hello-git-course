@@ -1,2 +1,1 @@
-# hello-git-course
-Git course TUNI 2024
+# This is a README
